@@ -1,6 +1,6 @@
 # Yar's Revenge Block Remake
 
-This project consists in a remake of the Atari 2600 game "Yar'S Revenge" where everything are blocks
+This project consists in a remake of the Atari 2600 game "Yar's Revenge" where everything are blocks
 
 Tested with Pygame 2.0.0dev12 and Python 3.7.3
 
