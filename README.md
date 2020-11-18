@@ -16,11 +16,11 @@ It is best of you watch the original game to fully understand its mechanics.
 
 This is a work in progress.
 
-# How to build
+## How to build
 
 'main.py' can be run directly if you have Pygame installed.
 
-# TODO
+## TODO
 
 - Write an end sequence when the player win or die
 - Write an intro to the game
